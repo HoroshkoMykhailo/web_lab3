@@ -1,0 +1,27 @@
+.grid-container{
+    display: grid;
+    grid-template: repeat(20,5%) / repeat(4, 25%);
+    height: 100%;
+}
+.block1{
+    grid-area: 1/1/span 3/ 5;
+}
+.block2{
+    grid-area: 4/1/span 14/ 2;
+}
+.block3{
+    grid-area: 4/2/span 2/ 4;
+}
+.block4{
+    grid-area: 4/4/span 12/ 5;
+}
+.block5{
+    grid-area: 6/2/span 12/ 4;
+}
+.block6{
+    grid-area: 16/4/span 2/ 5;
+}
+#end{
+    grid-area: 18/1/span 3/ 5;
+    text-align: right;
+}
