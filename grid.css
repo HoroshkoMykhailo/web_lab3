@@ -13,13 +13,13 @@
     grid-area: 4/3/10/5;
 }
 .block4{
-    grid-area: 10/4/16/5;
+    grid-area: 10/4/15/5;
 }
 .block5{
     grid-area: 10/1/18/4;
 }
 .block6{
-    grid-area: 16/4/18/5;
+    grid-area: 15/4/18/5;
 }
 #end{
     grid-area: 18/1/21/5;
