@@ -20,6 +20,7 @@ p{
     margin-right: 10%;
 }
 .block1>h2{
+    margin-top: 5%;
     background-color: white;
     border:solid 1px;
     color:black;
@@ -27,6 +28,7 @@ p{
     display: inline;
 }
 .block1>p{
+    margin-top: 5%;
     margin-left: 0;
     margin-right: 0;
     display: inline;
