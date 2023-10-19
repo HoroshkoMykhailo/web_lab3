@@ -5,6 +5,9 @@ html, body {
     border: solid 1px;
     box-sizing: border-box;
 }
+h1{
+    margin-bottom: 0;
+}
 p{
     margin-left: 5%;
     margin-right: 5%;
